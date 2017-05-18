@@ -1,1 +1,1 @@
-this testing creating folder and a text file in git
+lorem ipsum dolor sit amet :D
