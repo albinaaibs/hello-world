@@ -1,2 +1,5 @@
 # hello-world
-This is only testing git
+
+Hi!
+
+This is me, i'm only testing git for my recent project. 
